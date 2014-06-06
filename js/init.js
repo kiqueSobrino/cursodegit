@@ -52,6 +52,8 @@ skel.init({
 			}
 		}
 	}
-	
-	
+
+
 });
+
+// Corrigiendo bug 1
