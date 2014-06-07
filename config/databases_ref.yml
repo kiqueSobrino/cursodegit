@@ -1,0 +1,10 @@
+#Documentamos como craer la base de datos
+#Instala postregres blabla
+
+password: 'TUPASSWORD'
+username: 'TUUSERNAME'
+
+#Configuración de Redis
+#En mac: brew intall redis
+#En win: adfa
+server: 'TUSERVER'
